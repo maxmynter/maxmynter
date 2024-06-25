@@ -1,4 +1,4 @@
-Hey, 
+Hey there, 
 
 i'm Max. A data and ML literate software engineer.
 My background is mainly in phyisics, but for reasons I also have a degree in social sciences and technology management.
