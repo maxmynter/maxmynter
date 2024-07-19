@@ -1,7 +1,7 @@
 Hey there, 
 
 i'm Max. A data and ML literate software engineer.
-My background is mainly in phyisics, but for reasons I also have a degree in social sciences and technology management.
+My background is mainly in physics, but for reasons I also have a degree in social sciences and technology management.
 
 On GitHub you find my open source work that i do as part of my job at appliedAI. Noteworthy libraries are 
 
