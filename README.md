@@ -5,8 +5,9 @@ My background is mainly in physics, but for reasons I also have a degree in soci
 
 On GitHub you find my open source work that i do as part of my job at appliedAI. Noteworthy libraries are 
 
-- lakeFS-spec, a Python filesystem for the lakeFS data lake and
-- nnbench, a PyTest like framework for benchmarking ML models.
+- lakeFS-spec, a Python filesystem for the lakeFS data lake,
+- nnbench, a PyTest like framework for benchmarking ML models, and
+- jobq, a cluster workflow management and scheduling tool.
 
 Both repositories are pinned below.
 
