@@ -4,7 +4,7 @@ I'm [Max](https://www.linkedin.com/in/maxmynter/), a data and ML literate softwa
 
 I'm productive in Python, Rust, and JS/TS and dabble in Haskell and C++. 
 
-I love all things dev tools and built a few during my time at appliedAI: 
+I love open source, care about all things dev tools, and built a few during my time at appliedAI: 
 
 - lakeFS-spec, a Python filesystem for the lakeFS data lake,
 - nnbench, a PyTest like framework for benchmarking ML models, and
